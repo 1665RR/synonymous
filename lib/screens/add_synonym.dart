@@ -11,5 +11,5 @@ class _AddSynonymState extends State<AddSynonym> {
   @override
   Widget build(BuildContext context) {
     return const Placeholder();
-  }git
+  }
 }
